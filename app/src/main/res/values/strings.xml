@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyNews</string>
+    <string name="OPEN">open</string>
+    <string name="CLOSE">close</string>
+</resources>

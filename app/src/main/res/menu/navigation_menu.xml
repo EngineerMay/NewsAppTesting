@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/topnews"
+            android:title="Top News" />
+
+        <item android:id="@+id/sportsnews"
+            android:title="Sports" />
+
+        <item android:id="@+id/entertainmentnews"
+            android:title="Entertainment" />
+
+        <item android:id="@+id/politicsnews"
+            android:title="Politics" />
+
+        <item android:id="@+id/popularnews"
+            android:title="Popular News" />
+
+        <item android:id="@+id/savednews"
+            android:title="Saved News"/>
+
+        <item android:id="@+id/incfont"
+            android:title="Increase Font"/>
+
+        <item android:id="@+id/decfont"
+            android:title="DecreaseFont"/>
+
+        <item android:id="@+id/hideImage"
+            android:title="Hide Images"/>
+
+    </group>
+
+</menu>
